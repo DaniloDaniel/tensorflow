@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>DSC00305 - copia.jpg</filename>
+	<path>C:\Users\DaniloDaniel\Desktop\images-ear\test\DSC00305 - copia.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1296</width>
+		<height>730</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>232</ymin>
+			<xmax>1147</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>
