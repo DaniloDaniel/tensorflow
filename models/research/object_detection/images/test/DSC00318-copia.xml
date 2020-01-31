@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>DSC00319 - copia.jpg</filename>
-	<path>C:\Users\DaniloDaniel\Desktop\images-ear\test\DSC00319 - copia.jpg</path>
+	<filename>DSC00318-copia.jpg</filename>
+	<path>C:\Users\DaniloDaniel\Desktop\images-ear\test\DSC00318-copia.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>242</xmin>
+			<xmin>291</xmin>
 			<ymin>304</ymin>
-			<xmax>306</xmax>
-			<ymax>374</ymax>
+			<xmax>360</xmax>
+			<ymax>378</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>DSC00310 - copia.jpg</filename>
-	<path>C:\Users\DaniloDaniel\Desktop\images-ear\test\DSC00310 - copia.jpg</path>
+	<filename>DSC00313-copia.jpg</filename>
+	<path>C:\Users\DaniloDaniel\Desktop\images-ear\test\DSC00313-copia.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>ear</name>
+		<name>corn</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>178</xmin>
-			<ymin>206</ymin>
-			<xmax>1151</xmax>
-			<ymax>509</ymax>
+			<xmin>764</xmin>
+			<ymin>279</ymin>
+			<xmax>828</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 </annotation>
